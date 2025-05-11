@@ -1,8 +1,8 @@
 # Technical Context: ClineAGI
 
 ## 1. Core Technologies
--   **Operating System (Development Environment):** [User's OS]
--   **Default Shell (Development Environment):** [User's Shell]
+-   **Operating System (Development Environment):** macOS Sonoma
+-   **Default Shell (Development Environment):** bash
 -   **Primary AI Assistant (Cline):** Capabilities include CLI execution, file system operations (read, write, list, search), code definition listing, browser interaction, and access to MCP-provided tools.
 -   **Version Control:** Git.
     -   **Remote Repository:** The core `ClineAGI` project is hosted on GitHub at `wojons/ClineAGI.git`.
